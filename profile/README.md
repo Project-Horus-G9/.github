@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Project-Horus-G9/.github/main/Horus-Logo.png)
+![Logo](https://raw.githubusercontent.com/Project-Horus-G9/.github/main/Logo.png)
 
 Uma ferramenta que visa auxiliar as fazendas de produção de energia solar, auxiliando no monitoramento e gerenciamento das placas solares.
 
