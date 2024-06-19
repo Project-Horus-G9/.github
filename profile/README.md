@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/Project-Horus-G9/.github/main/Logo.png)
 
-Uma ferramenta que visa auxiliar as fazendas de produção de energia solar, auxiliando no monitoramento e gerenciamento das placas solares.
+Uma ferramenta que visa auxiliar as fazendas de produção de energia solar, realizando o monitoramento e gerenciamento das placas solares.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ## Equipe
